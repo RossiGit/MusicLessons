@@ -1,2 +1,2 @@
 # MusicLessons
-lessons
+description of why we do this
